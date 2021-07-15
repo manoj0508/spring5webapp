@@ -80,8 +80,6 @@ public class Publisher {
         return "Publisher{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
-                ", addresses=" + addresses +
-                ", books=" + books +
                 '}';
     }
 }
